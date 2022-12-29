@@ -5,8 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [github.com/FSDoubleUpper](github.com/FSDoubleUpper)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect</h3>
+<p align="center">
 <a href="https://twitter.com/fsd_yaolee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fsd_yaolee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/yao-lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yao-lee" height="30" width="40" /></a>
 </p>
