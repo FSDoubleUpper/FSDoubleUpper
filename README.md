@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **LensFinder**
 
-- 👨‍💻 All of my projects are available [HERE](www.yaofow.com){:target="_blank"}
-
 <h3 align="center">Connect</h3>
 <p align="center">
 <a href="https://twitter.com/fsd_yaolee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fsd_yaolee" height="30" width="40" /></a>
