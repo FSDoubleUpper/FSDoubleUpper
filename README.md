@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LensFinder**
 
-- 👨‍💻 All of my projects are available at [go](www.yaofow.com){:target="_blank"}
+- 👨‍💻 All of my projects are available [HERE](www.yaofow.com){:target="_blank"}
 
 <h3 align="center">Connect</h3>
 <p align="center">
