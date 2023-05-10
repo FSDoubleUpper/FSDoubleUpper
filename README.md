@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yao Lee</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
-
+<p align="center">
 - 🔭 I’m currently working on **LensFinder**
+</p>
 
 <h3 align="center">Connect</h3>
 <p align="center">
