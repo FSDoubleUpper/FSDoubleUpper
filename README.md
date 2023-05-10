@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LensFinder**
 
-- 👨‍💻 All of my projects are available at [github.com/FSDoubleUpper](github.com/FSDoubleUpper)
+- 👨‍💻 All of my projects are available at [HERE](github.com/FSDoubleUpper)
 
 <h3 align="center">Connect</h3>
 <p align="center">
